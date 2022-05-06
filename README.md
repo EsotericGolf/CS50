@@ -4,7 +4,7 @@
 
 This repl uses the [CS50 library](https://cs50.readthedocs.io/libraries/cs50/c/) for the C Programming Language. 
 
-Learn mor about taking [self-paced CS50 online](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x).
+Learn more about taking [self-paced CS50 online](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x).
 
 ## Usage
 
